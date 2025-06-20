@@ -46,7 +46,7 @@ Pixel-style game font (Library3amsoft-6zgq.otf)
 
 Note: All game assets used are either self-created, free for use, or for educational purposes.
 
-🧠 How the Game Works
+> How the Game Works
 Monsters spawn randomly from the edges of the screen and follow the player.
 
 You must shoot and eliminate them before they reduce your health.
